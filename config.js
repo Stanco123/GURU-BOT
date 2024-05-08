@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['2349020665301', 'stanley bot', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['2348035304599', 'stanley bot', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
